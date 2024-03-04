@@ -1,6 +1,6 @@
 # Install cocoapi in Windows.
 
-Install the COCO pythonAPI to the Python site-packages
+Install the COCO PythonAPI to the Python site-packages
 
 - ## 1. Microsoft Visual C++ 14.0
   First of all, you should make sure that you have install the Microsoft Visual C++ 14.0 or greater.
@@ -15,7 +15,6 @@ Install the COCO pythonAPI to the Python site-packages
   - ### step 1 install dependencies
     ```
     # in your conda environment install the dependencies
-    # install coco api dependencies
     pip install ninja yacs cython matplotlib
     # install torch torchvision 
     ```
