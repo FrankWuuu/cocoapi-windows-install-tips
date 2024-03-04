@@ -1,6 +1,7 @@
 # Install cocoapi in Windows.
 
-Install the COCO PythonAPI to the Python site-packages
+Install the COCO PythonAPI to the Python site-packages\
+If you find it helpful, please consider giving it a star🌟.
 
 - ## 1. Microsoft Visual C++ 14.0
   First of all, you should make sure that you have install the Microsoft Visual C++ 14.0 or greater.
